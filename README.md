@@ -10,5 +10,4 @@
 
 ## TODO
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=bingryan&repo=super-miner&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=bingryan&repo=subdata&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
